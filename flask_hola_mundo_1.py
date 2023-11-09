@@ -37,7 +37,7 @@ def multiply():
 
 @app.route("/<name>")
 def greet(name):
-    return f"hello " <name>
+    return f"hello {<name>}"
 
 # -----------------------------------------------------
 #
